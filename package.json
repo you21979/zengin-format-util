@@ -1,0 +1,23 @@
+{
+  "name": "zengin-format-util",
+  "version": "0.0.1",
+  "description": "zengin format util",
+  "main": "index.js",
+  "dependencies": {
+    "jaCodeMap" : "0.0.4",
+    "iconv" : "2.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/you21979/zengin-format-util.git"
+  },
+  "author": "you21979",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/you21979/zengin-format-util/issues"
+  },
+  "homepage": "https://github.com/you21979/zengin-format-util#readme"
+}
