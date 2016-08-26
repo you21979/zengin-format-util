@@ -4,6 +4,7 @@
   "description": "zengin format util",
   "main": "index.js",
   "dependencies": {
+    "wareki" : "https://github.com/you21979/node-wareki.git",
     "jaCodeMap" : "0.0.4",
     "iconv" : "2.2.1"
   },
