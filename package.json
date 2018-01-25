@@ -6,7 +6,7 @@
   "dependencies": {
     "wareki": "https://github.com/you21979/node-wareki.git",
     "jaCodeMap": "0.0.4",
-    "iconv": "2.2.1"
+    "iconv": "2.3"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
